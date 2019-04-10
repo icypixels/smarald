@@ -1,0 +1,1100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-09 20:33+0200\n"
+"PO-Revision-Date: 2013-06-09 20:33+0200\n"
+"Last-Translator: Icy Pixels <theicypixels@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:21
+#, php-format
+msgid "All posts in %s"
+msgstr ""
+
+#: archive.php:23
+#, php-format
+msgid "All posts tagged %s"
+msgstr ""
+
+#: archive.php:25 archive.php:27 archive.php:29
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:31
+msgid "All posts by"
+msgstr ""
+
+#: archive.php:33
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:67 index.php:58 single-portfolio.php:218 single.php:64
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: archive.php:68 index.php:59 single-portfolio.php:219 single.php:65
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: archive.php:78
+#, php-format
+msgid "<h2>Sorry, but there aren't any posts in the %s category yet.</h2>"
+msgstr ""
+
+#: archive.php:81
+#, php-format
+msgid "<h2>Sorry, but there aren't any posts tagged %s yet.</h2>"
+msgstr ""
+
+#: archive.php:84
+msgid "<h2>Sorry, but there aren't any posts with this date.</h2>"
+msgstr ""
+
+#: archive.php:88
+#, php-format
+msgid "<h2>Sorry, but there aren't any posts by %s yet.</h2>"
+msgstr ""
+
+#: archive.php:90
+msgid "<h2>No posts found.</h2>"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:43
+msgid "Trackbacks for this post"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed now."
+msgstr ""
+
+#: comments.php:86
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:101
+msgid "Leave a reply."
+msgstr ""
+
+#: comments.php:101
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: comments.php:108
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#: comments.php:114
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: comments.php:114
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:119
+msgid "Your Name *"
+msgstr ""
+
+#: comments.php:123
+msgid "Your Email *"
+msgstr ""
+
+#: comments.php:127
+msgid "Your Website"
+msgstr ""
+
+#: comments.php:133
+msgid "Write your message here."
+msgstr ""
+
+#: comments.php:137
+msgid "Submit Comment"
+msgstr ""
+
+#: functions.php:18
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:227
+msgid "Go to the previous post"
+msgstr ""
+
+#: functions.php:228
+msgid "Go to the next post"
+msgstr ""
+
+#: functions.php:335
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: functions.php:337
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:337
+msgid "[Edit]"
+msgstr ""
+
+#: functions.php:342
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:20
+msgid "Search Results"
+msgstr ""
+
+#: header.php:73
+msgid "Return to Content"
+msgstr ""
+
+#: header.php:135
+msgid "Navigation"
+msgstr ""
+
+#: index.php:69 page.php:54 single-portfolio.php:229 single.php:75
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: index.php:73 page.php:58 single-portfolio.php:233 single.php:79
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: post-aside.php:10 post-audio.php:36 post-audio.php:67 post-gallery.php:44
+#: post-image.php:42 post-image.php:44 post-quote.php:16 post-quote.php:36
+#: post-standard.php:27 post-status.php:10 post-video.php:31 post-video.php:69
+msgid "Read more"
+msgstr ""
+
+#: post-aside.php:11 post-audio.php:37 post-audio.php:68 post-chat.php:20
+#: post-gallery.php:45 post-image.php:46 post-quote.php:17 post-quote.php:37
+#: post-standard.php:28 post-status.php:11 post-video.php:32 post-video.php:70
+msgid "Pages:"
+msgstr ""
+
+#: single-portfolio.php:68 single-portfolio.php:81
+#: functions/theme-functions.php:440
+msgid "Prev Post"
+msgstr ""
+
+#: single-portfolio.php:73 single-portfolio.php:89
+#: functions/theme-functions.php:445
+msgid "Next Post"
+msgstr ""
+
+#: single-portfolio.php:182 functions/theme-functions.php:554
+msgid "Link"
+msgstr ""
+
+#: single.php:22 single.php:23
+msgid "Show All Posts"
+msgstr ""
+
+#: customizer/options.php:35
+msgid "Logo Setup"
+msgstr ""
+
+#: customizer/options.php:36
+msgid "Setup your own logo for your website."
+msgstr ""
+
+#: customizer/options.php:48
+msgid "Logo"
+msgstr ""
+
+#: customizer/options.php:61
+msgid "Logo Width (px)"
+msgstr ""
+
+#: customizer/options.php:74
+msgid "Logo Height (px)"
+msgstr ""
+
+#: customizer/options.php:87
+msgid "Logo Retina"
+msgstr ""
+
+#: customizer/options.php:100
+msgid "Favicon"
+msgstr ""
+
+#: customizer/options.php:113
+msgid "Logo placement"
+msgstr ""
+
+#: customizer/options.php:117
+msgid "Left Aligned"
+msgstr ""
+
+#: customizer/options.php:120 functions/theme-metabox.php:48
+#: functions/theme-metabox.php:119 functions/theme-metabox.php:365
+#: functions/theme-metabox.php:436
+msgid "Centered"
+msgstr ""
+
+#: customizer/options.php:123
+msgid "Right Aligned"
+msgstr ""
+
+#: customizer/options.php:137
+msgid "Theme Settings"
+msgstr ""
+
+#: customizer/options.php:138
+msgid ""
+"Theme settings helping you customize your brand new theme and make it your "
+"own."
+msgstr ""
+
+#: customizer/options.php:150
+msgid "Custom CSS"
+msgstr ""
+
+#: customizer/options.php:162
+msgid "Auto-Update Settings"
+msgstr ""
+
+#: customizer/options.php:163
+msgid "Easily update your theme with the push of a button."
+msgstr ""
+
+#: customizer/options.php:175
+msgid "Buyer Username"
+msgstr ""
+
+#: customizer/options.php:176
+msgid "Please provide a username in order for the auto-update to work."
+msgstr ""
+
+#: customizer/options.php:189
+msgid "Buyer API key"
+msgstr ""
+
+#: customizer/options.php:190
+msgid "Please provide a API key in order for the auto-update to work."
+msgstr ""
+
+#: customizer/options.php:209
+msgid "Color Scheme"
+msgstr ""
+
+#: customizer/options.php:213
+msgid "Light"
+msgstr ""
+
+#: customizer/options.php:216
+msgid "Dark"
+msgstr ""
+
+#: customizer/options.php:230
+msgid "Accent colour"
+msgstr ""
+
+#: customizer/options.php:243
+msgid "Text colour"
+msgstr ""
+
+#: customizer/options.php:256
+msgid "Headings colour"
+msgstr ""
+
+#: customizer/options.php:269
+msgid "Footer background colour"
+msgstr ""
+
+#: functions/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: functions/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: functions/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: functions/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:164
+#: functions/theme-require-plugins.php:94
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:165
+#: functions/theme-require-plugins.php:95
+msgid "Install Plugins"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:166
+#: functions/theme-require-plugins.php:96
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:178
+#: functions/class-tgm-plugin-activation.php:490
+#: functions/theme-require-plugins.php:108
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:179
+#: functions/class-tgm-plugin-activation.php:1846
+#: functions/theme-require-plugins.php:109
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:517
+#: functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1956
+#: functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1956
+#: functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/theme-functions.php:433
+msgid "Show Grid"
+msgstr ""
+
+#: functions/theme-functions.php:704
+msgid "Insert"
+msgstr ""
+
+#: functions/theme-functions.php:742
+msgid "Create Featured Gallery"
+msgstr ""
+
+#: functions/theme-functions.php:750 functions/theme-functions.php:758
+msgid "Edit Featured Gallery"
+msgstr ""
+
+#: functions/theme-functions.php:795
+msgid "Save Featured Gallery"
+msgstr ""
+
+#: functions/theme-functions.php:805
+msgid "Saving..."
+msgstr ""
+
+#: functions/theme-functions.php:871 functions/theme-functions.php:873
+msgid "Edit Gallery"
+msgstr ""
+
+#: functions/theme-functions.php:1148
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: functions/theme-functions.php:1159
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: functions/theme-metabox.php:22 functions/theme-metabox.php:339
+msgid "Custom Background Settings"
+msgstr ""
+
+#: functions/theme-metabox.php:28 functions/theme-metabox.php:99
+#: functions/theme-metabox.php:345 functions/theme-metabox.php:416
+msgid "Custom Background Image"
+msgstr ""
+
+#: functions/theme-metabox.php:29 functions/theme-metabox.php:100
+#: functions/theme-metabox.php:346 functions/theme-metabox.php:417
+msgid ""
+"Upload a custom background image for this post. Once uploaded, click "
+"\"Insert to Post\"."
+msgstr ""
+
+#: functions/theme-metabox.php:35 functions/theme-metabox.php:106
+#: functions/theme-metabox.php:352 functions/theme-metabox.php:423
+msgid "Custom Background Repeat"
+msgstr ""
+
+#: functions/theme-metabox.php:36 functions/theme-metabox.php:107
+#: functions/theme-metabox.php:353 functions/theme-metabox.php:424
+msgid "Select a custom background repeat for the uploaded image."
+msgstr ""
+
+#: functions/theme-metabox.php:40 functions/theme-metabox.php:111
+#: functions/theme-metabox.php:357 functions/theme-metabox.php:428
+msgid "No Repeat"
+msgstr ""
+
+#: functions/theme-metabox.php:40 functions/theme-metabox.php:111
+#: functions/theme-metabox.php:357 functions/theme-metabox.php:428
+msgid "Repeat"
+msgstr ""
+
+#: functions/theme-metabox.php:40 functions/theme-metabox.php:111
+#: functions/theme-metabox.php:357 functions/theme-metabox.php:428
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: functions/theme-metabox.php:40 functions/theme-metabox.php:111
+#: functions/theme-metabox.php:357 functions/theme-metabox.php:428
+msgid "Repeat Vertically"
+msgstr ""
+
+#: functions/theme-metabox.php:43 functions/theme-metabox.php:114
+#: functions/theme-metabox.php:360 functions/theme-metabox.php:431
+msgid "Custom Background Position"
+msgstr ""
+
+#: functions/theme-metabox.php:44 functions/theme-metabox.php:115
+#: functions/theme-metabox.php:361 functions/theme-metabox.php:432
+msgid "Select a custom background position for the uploaded image."
+msgstr ""
+
+#: functions/theme-metabox.php:48 functions/theme-metabox.php:119
+#: functions/theme-metabox.php:365 functions/theme-metabox.php:436
+msgid "Left"
+msgstr ""
+
+#: functions/theme-metabox.php:48 functions/theme-metabox.php:119
+#: functions/theme-metabox.php:365 functions/theme-metabox.php:436
+msgid "Right"
+msgstr ""
+
+#: functions/theme-metabox.php:48 functions/theme-metabox.php:119
+#: functions/theme-metabox.php:365 functions/theme-metabox.php:436
+msgid "Full Screen"
+msgstr ""
+
+#: functions/theme-metabox.php:51 functions/theme-metabox.php:122
+#: functions/theme-metabox.php:368 functions/theme-metabox.php:439
+msgid "Custom Background Color"
+msgstr ""
+
+#: functions/theme-metabox.php:52 functions/theme-metabox.php:123
+#: functions/theme-metabox.php:369 functions/theme-metabox.php:440
+msgid "Type a custom background color for the uploaded image. (e.g. #ffffff)"
+msgstr ""
+
+#: functions/theme-metabox.php:59 functions/theme-metabox.php:130
+#: functions/theme-metabox.php:376 functions/theme-metabox.php:447
+msgid "Content Background Color"
+msgstr ""
+
+#: functions/theme-metabox.php:60 functions/theme-metabox.php:131
+#: functions/theme-metabox.php:377 functions/theme-metabox.php:448
+msgid "Pick a background color for the content wrapper. (e.g. #ffffff)"
+msgstr ""
+
+#: functions/theme-metabox.php:67 functions/theme-metabox.php:138
+#: functions/theme-metabox.php:384 functions/theme-metabox.php:455
+msgid "Remove Content Background Color ?"
+msgstr ""
+
+#: functions/theme-metabox.php:68 functions/theme-metabox.php:139
+#: functions/theme-metabox.php:385 functions/theme-metabox.php:456
+msgid ""
+"Do you wish to remove the content background color completely so your page "
+"has a nice fullscreen background photo?"
+msgstr ""
+
+#: functions/theme-metabox.php:79 functions/theme-metabox.php:396
+msgid "Page Settings"
+msgstr ""
+
+#: functions/theme-metabox.php:86 functions/theme-metabox.php:403
+msgid "Page Title"
+msgstr ""
+
+#: functions/theme-metabox.php:87 functions/theme-metabox.php:404
+msgid "Choose a page title to be displayed at the very top of the webpage."
+msgstr ""
+
+#: functions/theme-metabox.php:93 functions/theme-metabox.php:410
+msgid "Page Subtitle"
+msgstr ""
+
+#: functions/theme-metabox.php:94 functions/theme-metabox.php:411
+msgid "Choose a page subtitle to be displayed at the very top of the webpage."
+msgstr ""
+
+#: functions/theme-metabox.php:150 functions/theme-metabox.php:184
+#: functions/theme-metabox.php:648
+msgid "Gallery Settings"
+msgstr ""
+
+#: functions/theme-metabox.php:156 functions/theme-metabox.php:190
+#: functions/theme-metabox.php:474 functions/theme-metabox.php:654
+msgid "Gallery Type"
+msgstr ""
+
+#: functions/theme-metabox.php:157 functions/theme-metabox.php:191
+#: functions/theme-metabox.php:475 functions/theme-metabox.php:655
+msgid "Choose your desired format for your gallery"
+msgstr ""
+
+#: functions/theme-metabox.php:164 functions/theme-metabox.php:482
+msgid "Gallery Images"
+msgstr ""
+
+#: functions/theme-metabox.php:165 functions/theme-metabox.php:483
+msgid "Upload images for slideshow or lightbox"
+msgstr ""
+
+#: functions/theme-metabox.php:168 functions/theme-metabox.php:486
+msgid "Upload"
+msgstr ""
+
+#: functions/theme-metabox.php:171 functions/theme-metabox.php:205
+#: functions/theme-metabox.php:489 functions/theme-metabox.php:669
+msgid "Gallery Columns"
+msgstr ""
+
+#: functions/theme-metabox.php:172 functions/theme-metabox.php:206
+#: functions/theme-metabox.php:490 functions/theme-metabox.php:670
+msgid "Amount of columns for lightbox gallery type."
+msgstr ""
+
+#: functions/theme-metabox.php:199 functions/theme-metabox.php:663
+msgid "Project Gallery"
+msgstr ""
+
+#: functions/theme-metabox.php:200 functions/theme-metabox.php:664
+msgid "Upload images here if you have set the Slideshow Portfolio Type."
+msgstr ""
+
+#: functions/theme-metabox.php:202 functions/theme-metabox.php:666
+msgid "Upload to Gallery"
+msgstr ""
+
+#: functions/theme-metabox.php:214 functions/theme-metabox.php:678
+msgid "Mixed Media Shortcode ID"
+msgstr ""
+
+#: functions/theme-metabox.php:215 functions/theme-metabox.php:679
+msgid "Input just the ID of the shortcode. (e.g. 43)"
+msgstr ""
+
+#: functions/theme-metabox.php:225 functions/theme-metabox.php:689
+msgid "Portfolio Settings"
+msgstr ""
+
+#: functions/theme-metabox.php:226 functions/theme-metabox.php:690
+msgid ""
+"For Image type, set a featured Image. For Slideshow type, set a featured "
+"image and upload a gallery of images using the Gallery Settings found aside "
+"of this box. Same goes for Video type. I have tried to make the meta fields "
+"as customizable as possible, therefore you can fill in with your desired "
+"content, instead of Agency, Date, Client etc. fields."
+msgstr ""
+
+#: functions/theme-metabox.php:233 functions/theme-metabox.php:697
+msgid "Portfolio Type"
+msgstr ""
+
+#: functions/theme-metabox.php:234 functions/theme-metabox.php:698
+msgid "Choose the portfolio type you wish to display:"
+msgstr ""
+
+#: functions/theme-metabox.php:241 functions/theme-metabox.php:705
+msgid "Display Meta Fields ?"
+msgstr ""
+
+#: functions/theme-metabox.php:242 functions/theme-metabox.php:706
+msgid "Do you want to display the metafields below?"
+msgstr ""
+
+#: functions/theme-metabox.php:248 functions/theme-metabox.php:712
+msgid "Client Logo"
+msgstr ""
+
+#: functions/theme-metabox.php:249 functions/theme-metabox.php:713
+msgid ""
+"Used in the single portfolio page display, in the middle of the page. "
+"Recommended : 80x80 size."
+msgstr ""
+
+#: functions/theme-metabox.php:255 functions/theme-metabox.php:719
+msgid "Title 1"
+msgstr ""
+
+#: functions/theme-metabox.php:256 functions/theme-metabox.php:270
+#: functions/theme-metabox.php:284 functions/theme-metabox.php:298
+#: functions/theme-metabox.php:720 functions/theme-metabox.php:734
+#: functions/theme-metabox.php:748 functions/theme-metabox.php:762
+msgid "Type in the desired text. (e.g. Agency, Date, Client, URL)"
+msgstr ""
+
+#: functions/theme-metabox.php:262 functions/theme-metabox.php:726
+msgid "Description 1"
+msgstr ""
+
+#: functions/theme-metabox.php:263 functions/theme-metabox.php:727
+msgid "The agency under which the project was completed."
+msgstr ""
+
+#: functions/theme-metabox.php:269 functions/theme-metabox.php:733
+msgid "Title 2"
+msgstr ""
+
+#: functions/theme-metabox.php:276 functions/theme-metabox.php:740
+msgid "Description 2"
+msgstr ""
+
+#: functions/theme-metabox.php:277 functions/theme-metabox.php:741
+msgid "For whom the portfolio was completed."
+msgstr ""
+
+#: functions/theme-metabox.php:283 functions/theme-metabox.php:747
+msgid "Title 3"
+msgstr ""
+
+#: functions/theme-metabox.php:290 functions/theme-metabox.php:304
+#: functions/theme-metabox.php:754 functions/theme-metabox.php:768
+msgid "Portfolio Role"
+msgstr ""
+
+#: functions/theme-metabox.php:291 functions/theme-metabox.php:755
+msgid "What was your role on this project?"
+msgstr ""
+
+#: functions/theme-metabox.php:297 functions/theme-metabox.php:761
+msgid "Title 4"
+msgstr ""
+
+#: functions/theme-metabox.php:305 functions/theme-metabox.php:769
+msgid "A link to the project."
+msgstr ""
+
+#: functions/theme-metabox.php:315 functions/theme-metabox.php:779
+msgid "Portfolio Video Embed"
+msgstr ""
+
+#: functions/theme-metabox.php:322 functions/theme-metabox.php:786
+msgid "Project Video"
+msgstr ""
+
+#: functions/theme-metabox.php:323 functions/theme-metabox.php:787
+msgid "Add in your embed code here (Vimeo, YouTube etc.)"
+msgstr ""
+
+#: functions/theme-metabox.php:467
+msgid "Post Gallery"
+msgstr ""
+
+#: functions/theme-metabox.php:468
+msgid "Insert your pictures here."
+msgstr ""
+
+#: functions/theme-metabox.php:502 functions/theme-metabox.php:560
+msgid "Video Settings"
+msgstr ""
+
+#: functions/theme-metabox.php:507
+msgid "Embeded Code"
+msgstr ""
+
+#: functions/theme-metabox.php:508
+msgid ""
+"If you're not using self hosted video then you can include embeded code here."
+msgstr ""
+
+#: functions/theme-metabox.php:520
+msgid "Quote Settings"
+msgstr ""
+
+#: functions/theme-metabox.php:521 functions/theme-metabox.php:528
+msgid "Input your quote."
+msgstr ""
+
+#: functions/theme-metabox.php:527
+msgid "The Quote"
+msgstr ""
+
+#: functions/theme-metabox.php:540
+msgid "Link Settings"
+msgstr ""
+
+#: functions/theme-metabox.php:541
+msgid "Input your link"
+msgstr ""
+
+#: functions/theme-metabox.php:547
+msgid "The Link"
+msgstr ""
+
+#: functions/theme-metabox.php:548
+msgid "Insert your link URL, e.g. http://www.themeicy.com."
+msgstr ""
+
+#: functions/theme-metabox.php:561
+msgid "These settings enable you to embed videos into your posts."
+msgstr ""
+
+#: functions/theme-metabox.php:567
+msgid "Video Height"
+msgstr ""
+
+#: functions/theme-metabox.php:568
+msgid "The video height (e.g. 500)."
+msgstr ""
+
+#: functions/theme-metabox.php:574
+msgid "M4V File URL"
+msgstr ""
+
+#: functions/theme-metabox.php:575
+msgid "The URL to the .m4v video file"
+msgstr ""
+
+#: functions/theme-metabox.php:581
+msgid "OGV File URL"
+msgstr ""
+
+#: functions/theme-metabox.php:582
+msgid "The URL to the .ogv video file"
+msgstr ""
+
+#: functions/theme-metabox.php:588
+msgid "Poster Image"
+msgstr ""
+
+#: functions/theme-metabox.php:589
+msgid "The preview image. The preview image should be 500px wide."
+msgstr ""
+
+#: functions/theme-metabox.php:595
+msgid "Embedded Code"
+msgstr ""
+
+#: functions/theme-metabox.php:596
+msgid ""
+"If you are using something other than self hosted video such as Youtube or "
+"Vimeo, paste the embed code here. Width is best at 500px with any height."
+"<br><br> This field will override the above."
+msgstr ""
+
+#: functions/theme-metabox.php:608
+msgid "Audio Settings"
+msgstr ""
+
+#: functions/theme-metabox.php:609
+msgid ""
+"These settings enable you to embed audio into your posts. You must provide "
+"both .mp3 and .agg/.oga file formats in order for self hosted audio to "
+"function accross all browsers."
+msgstr ""
+
+#: functions/theme-metabox.php:615
+msgid "MP3 File URL"
+msgstr ""
+
+#: functions/theme-metabox.php:616
+msgid "The URL to the .mp3 audio file"
+msgstr ""
+
+#: functions/theme-metabox.php:622
+msgid "OGA File URL"
+msgstr ""
+
+#: functions/theme-metabox.php:623
+msgid "The URL to the .oga, .ogg audio file"
+msgstr ""
+
+#: functions/theme-metabox.php:629
+msgid "Audio Poster Image"
+msgstr ""
+
+#: functions/theme-metabox.php:630
+msgid "The preview image for this audio track."
+msgstr ""
+
+#: functions/theme-metabox.php:636
+msgid "Audio Poster Image Height"
+msgstr ""
+
+#: functions/theme-metabox.php:637
+msgid ""
+"The height of the poster image. It is really IMPORTANT to set a height if "
+"there's an image attached to the post."
+msgstr ""
+
+#: functions/theme-require-plugins.php:97
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions/theme-require-plugins.php:110
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions/widget-flickr.php:33
+msgid "A widget that displays your Flickr photos."
+msgstr ""
+
+#: functions/widget-flickr.php:36
+msgid "Custom Flickr Photos"
+msgstr ""
+
+#: functions/widget-flickr.php:108 functions/widget-video.php:106
+msgid "Title:"
+msgstr ""
+
+#: functions/widget-flickr.php:113
+msgid "Flickr ID:"
+msgstr ""
+
+#: functions/widget-flickr.php:118
+msgid "Number of Photos:"
+msgstr ""
+
+#: functions/widget-flickr.php:128
+msgid "Type (user or group):"
+msgstr ""
+
+#: functions/widget-flickr.php:136
+msgid "Display (random or latest):"
+msgstr ""
+
+#: functions/widget-tweets.php:72
+msgid "Display your tweets from Twitter"
+msgstr ""
+
+#: functions/widget-tweets.php:73
+msgid "Custom Twitter Widget"
+msgstr ""
+
+#: functions/widget-tweets.php:82
+msgid "Twitter Updates"
+msgstr ""
+
+#: functions/widget-tweets.php:169
+#, php-format
+msgid ""
+"Error: Please make sure the Twitter account is <a href=\"%s\">public</a>."
+msgstr ""
+
+#: functions/widget-video.php:30
+msgid "A widget that displays your YouTube or Vimeo Video."
+msgstr ""
+
+#: functions/widget-video.php:39
+msgid "Custom Video Widget"
+msgstr ""
+
+#: functions/widget-video.php:111
+msgid "Embed Code:"
+msgstr ""
+
+#: functions/widget-video.php:116
+msgid "Short Description:"
+msgstr ""
+
+#: page-builder/blocks/icy-blog-block.php:155
+#: page-builder/blocks/icy-portfolio-block.php:186
+msgid "All"
+msgstr ""
+
+#: page-builder/blocks/icy-contact-block.php:23
+#: page-builder/blocks/icy-contact-block.php:28
+msgid ""
+"Sorry, this block requires the <a href=\"http://wordpress.org/extend/plugins/"
+"contact-form-7/\">Contact Form 7</a> plugin to be installed & activated. "
+"Please install/activate the plugin before using this block"
+msgstr ""
+
+#: page-builder/blocks/icy-contact-block.php:44
+msgid ""
+"You do not currently have any contact form setup. Please create a contact "
+"form before setting up this block"
+msgstr ""
+
+#: page-builder/blocks/icy-contact-block.php:46
+msgid "Setup contact form"
+msgstr ""
+
+#: page-builder/blocks/icy-horizontal-block.php:44
+msgid "Use this block for horizontal separation of elements."
+msgstr ""

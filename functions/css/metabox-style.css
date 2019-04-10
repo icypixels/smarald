@@ -1,0 +1,48 @@
+.icy-metabox-table tr { border-top: 1px solid #eee; }
+
+.icy-metabox-table th { width: 25%; }
+
+#side-sortables .icy-metabox-table th { width: 50%; }
+
+.icy-metabox-table td input[type="checkbox"],
+.icy-metabox-table td input[type="radio"] { width:auto; }
+
+.icy-metabox-table label span {
+	line-height: 20px; 
+	display: block; 
+	color: #999; 
+	margin: 5px 0 0 0;
+}
+
+.icy-metabox-table input,
+.icy-metabox-table textarea {
+	width: 100%; 
+	margin-right: 10px; 
+	float: left;
+}
+
+.icy-metabox-table input.file { width: 85%; }
+
+.icy-metabox-table input.button {
+	width: auto; 
+	margin-right: 0;
+}
+
+.icy-metabox-table input.radio {
+	width: auto; 
+	margin-right: 3px;
+	float: none;
+}
+
+.icy-metabox-table .radio-label { margin-right: 10px; }
+
+.icy-gallery-thumbs {
+	clear: both;
+	width: 100%;
+	float: left;
+}
+
+.icy-gallery-thumbs li {	
+	display: inline-block;
+	margin-bottom: 0;
+}
